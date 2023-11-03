@@ -1,18 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Vladyslav Dykyi!
 
-Welcome to my GitHub! I'm Vladyslav Dykyi, a machine learning enthusiast and student at Johannes Kepler University. Here's a little about me:
+Welcome to my GitHub! As a machine learning aficionado and an aspiring researcher at Johannes Kepler University, I'm deep into the world of AI. Here's a peek into my journey:
 
-- 🔭 I’m currently working on my thesis in machine learning, focusing on enhancing object detection algorithms, image classification, etc.
-- 🌱 I’m currently learning advanced topics in AI and exploring deep learning models like GANs and LSTM for various applications.
-- 👯 I’m looking to collaborate on open-source machine learning projects or web scraping tools.
-- 🤔 I’m looking for help with understanding complex neural network architectures, especially those involved in generative models.
-- 💬 Ask me about Python, machine learning, PyTorch, and my experiences with web scraping.
-- 📫 How to reach me: [vladdikiy17@gmail.com]
+- 🔭 I’m currently perfecting object detection algorithms for my thesis, diving into the realms of image classification and beyond.
+- 🌱 Advancing through the frontiers of AI, I’m unraveling the mysteries of GANs and LSTMs for cutting-edge applications.
+- 👯 Keen on contributing to open-source machine learning projects and honing my skills in web scraping.
+- 🤔 Seeking insights into the intricacies of neural networks, particularly the generative kind.
+- 💬 Let's talk about Python, PyTorch, the art of web scraping, and all things machine learning!
+- 📫 Reach me at: [vladdikiy17@gmail.com](mailto:vladdikiy17@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not studying AI, I'm probably exploring the beautiful landscapes of Linz, Austria.
+- ⚡ In my downtime, I find solace in exploring Linz's scenic vistas.
 
-### What I'm Working With
-Here are some of the technologies and tools that I use:
+### Toolbox 🧰
+
+Some of the technologies and tools that I work with are:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
@@ -34,23 +35,23 @@ Here are some of the technologies and tools that I use:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true&theme=radical)
 
 </details>
 
-### Recent Projects
+### Latest Projects 🚀
 
-- **Car Object Detection**: Implementing state-of-the-art computer vision models to detect and classify vehicles in traffic.
-- **LSTM Time Series**: Analyzing and forecasting time series data using LSTM networks for market trend prediction.
-- **Generative Adversarial Network (GAN) Model**: Experimenting with GANs for image generation and enhancement.
-- **House Price Prediction (MLP)**: Creating a model to predict house prices based on multiple features using a multi-layer perceptron.
-- **Stock Price Prediction App**: Developing an application for predicting stock prices with machine learning algorithms.
-- **DG-GAN**: Exploring dual-gradient GANs for improved stability in training generative models.
+- **Car Object Detection**: Enhancing CV models for dynamic vehicle identification in urban settings.
+- **LSTM Time Series Analysis**: Unraveling patterns in temporal data for predictive insights in financial markets.
+- **GAN Experiments**: Pushing the envelope with GANs for creative image synthesis and augmentation.
+- **Real Estate Price Modeling (MLP)**: Developing robust prediction models to gauge real estate valuations.
+- **Stock Price Forecasting App**: Architecting ML-powered solutions for anticipatory stock market analytics.
+- **Innovative DG-GAN**: Probing the potential of dual-gradient GANs to refine generative model training stability.
 
-### Connect with Me
+### Let's Connect! 🤝
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portcode.at/)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01186f04fc2a233a08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-dykyi-4321a9283/)
+[![Website Badge](https://img.shields.io/badge/-portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://portcode.at/)
+[![Upwork Badge](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01186f04fc2a233a08)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-dykyi-4321a9283/)
 
-Happy coding!😄
+Happy coding! 😄
