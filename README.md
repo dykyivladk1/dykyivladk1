@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm Vladyslav Dykyi, a machine learning enthusiast and student at Johannes Kepler University. Here's a little about me:
 
-- 🔭 I’m currently working on my thesis in machine learning, focusing on enhancing object detection algorithms for autonomous vehicles.
+- 🔭 I’m currently working on my thesis in machine learning, focusing on enhancing object detection algorithms, image classification, etc.
 - 🌱 I’m currently learning advanced topics in AI and exploring deep learning models like GANs and LSTM for various applications.
 - 👯 I’m looking to collaborate on open-source machine learning projects or web scraping tools.
 - 🤔 I’m looking for help with understanding complex neural network architectures, especially those involved in generative models.
