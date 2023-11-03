@@ -38,7 +38,7 @@ Here are some of the technologies and tools that I use:
 
 ### Connect with Me
 
-[![Website](https://th.bing.com/th/id/R.90a4eb1acced5e51b1b7bba33df2fce0?rik=c%2fPqnWt0BzJPKA&pid=ImgRaw&r=0)](https://portcode.at/)
+[![Website](https://via.placeholder.com/150)](https://portcode.at/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01186f04fc2a233a08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-dykyi-4321a9283/)
 
