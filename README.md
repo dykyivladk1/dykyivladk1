@@ -1,5 +1,7 @@
 ![Hi there 👋, I'm Vladyslav Dykyi!](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
+### Hi there 👋, I'm Vladyslav Dykyi!
+
 
 Welcome to my GitHub! As a machine learning aficionado and an aspiring researcher at Johannes Kepler University, I'm deep into the world of AI. Here's a peek into my journey:
 
@@ -11,6 +13,8 @@ Welcome to my GitHub! As a machine learning aficionado and an aspiring researche
 - 📫 Reach me at: [vladdikiy17@gmail.com](mailto:vladdikiy17@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ In my downtime, I find solace in exploring Linz's scenic vistas.
+- 
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### Toolbox 🧰
 
@@ -33,12 +37,16 @@ Some of the technologies and tools that I work with are:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=Apple)
 
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   ![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true&theme=radical)
 
 </details>
+
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### Latest Projects 🚀
 
@@ -49,10 +57,17 @@ Some of the technologies and tools that I work with are:
 - **Stock Price Forecasting App**: Architecting ML-powered solutions for anticipatory stock market analytics.
 - **Innovative DG-GAN**: Probing the potential of dual-gradient GANs to refine generative model training stability.
 
+
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+
 ### Let's Connect! 🤝
 
 [![Website Badge](https://img.shields.io/badge/-portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://portcode.at/)
 [![Upwork Badge](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01186f04fc2a233a08)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-dykyi-4321a9283/)
+
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 Happy coding! 😄
