@@ -1,6 +1,7 @@
 ![Hi there 👋, I'm Vladyslav Dykyi!](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-### Hi there 👋, I'm Vladyslav Dykyi!
+### Hi there 👋, I'm Vladyslav Dykyi!![](https://user-images.githubusercontent.com/74038190/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif)
+
 
 
 Welcome to my GitHub! As a machine learning aficionado and an aspiring researcher at Johannes Kepler University, I'm deep into the world of AI. Here's a peek into my journey:
