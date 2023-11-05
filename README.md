@@ -1,4 +1,4 @@
-![Hi there 👋, I'm Vladyslav Dykyi!]([https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif))
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### Hi there 👋, I'm Vladyslav Dykyi!!
 
@@ -13,7 +13,8 @@ Welcome to my GitHub! As a machine learning aficionado and an aspiring researche
 - 😄 Pronouns: He/Him
 - ⚡ In my downtime, I find solace in exploring Linz's scenic vistas.
 - 
-![]([https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif))
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 ### Toolbox 🧰
 
@@ -54,8 +55,8 @@ Some of the technologies and tools that I work with are:
 - **Stock Price Forecasting App**: Architecting ML-powered solutions for anticipatory stock market analytics.
 - **Innovative DG-GAN**: Probing the potential of dual-gradient GANs to refine generative model training stability.
 
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-![]([https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif))
 
 
 ### Let's Connect! 🤝
