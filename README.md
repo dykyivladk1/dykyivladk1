@@ -65,6 +65,5 @@ Some of the technologies and tools that I work with are:
 [![Upwork Badge](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01186f04fc2a233a08)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-dykyi-4321a9283/)
 
-
-![]([https://user-images.githubusercontent.com/74038190/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
