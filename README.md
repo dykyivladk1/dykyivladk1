@@ -37,7 +37,6 @@ Some of the technologies and tools that I work with are:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=Apple)
 
-![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -46,7 +45,6 @@ Some of the technologies and tools that I work with are:
 
 </details>
 
-![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### Latest Projects 🚀
 
@@ -67,7 +65,7 @@ Some of the technologies and tools that I work with are:
 [![Upwork Badge](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01186f04fc2a233a08)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-dykyi-4321a9283/)
 
-![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 
 Happy coding! 😄
