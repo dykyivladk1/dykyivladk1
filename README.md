@@ -2,23 +2,11 @@
 
 ### Hi there 👋, I'm Vladyslav Dykyi!!
 
-Welcome to my GitHub! As a machine learning aficionado and an aspiring researcher at Johannes Kepler University, I'm deep into the world of AI. Here's a peek into my journey:
-
-- 🔭 I’m currently perfecting object detection algorithms for my thesis, diving into the realms of image classification and beyond.
-- 🌱 Advancing through the frontiers of AI, I’m unraveling the mysteries of GANs and LSTMs for cutting-edge applications.
-- 👯 Keen on contributing to open-source machine learning projects and honing my skills in web scraping.
-- 🤔 Seeking insights into the intricacies of neural networks, particularly the generative kind.
-- 💬 Let's talk about Python, PyTorch, the art of web scraping, and all things machine learning!
-- 📫 Reach me at: [vladdikiy17@gmail.com](mailto:vladdikiy17@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ In my downtime, I find solace in exploring Linz's scenic vistas.
-- 
+Welcome to my GitHub! 
 ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 
 ### Toolbox 🧰
-
-Some of the technologies and tools that I work with are:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
@@ -45,15 +33,6 @@ Some of the technologies and tools that I work with are:
 
 </details>
 
-
-### Latest Projects 🚀
-
-- **Car Object Detection**: Enhancing CV models for dynamic vehicle identification in urban settings.
-- **LSTM Time Series Analysis**: Unraveling patterns in temporal data for predictive insights in financial markets.
-- **GAN Experiments**: Pushing the envelope with GANs for creative image synthesis and augmentation.
-- **Real Estate Price Modeling (MLP)**: Developing robust prediction models to gauge real estate valuations.
-- **Stock Price Forecasting App**: Architecting ML-powered solutions for anticipatory stock market analytics.
-- **Innovative DG-GAN**: Probing the potential of dual-gradient GANs to refine generative model training stability.
 
 ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
