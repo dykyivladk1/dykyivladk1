@@ -3,7 +3,8 @@
 
 Welcome to my GitHub! 
 
-![](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+![Alt text for the GIF](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F039fb60e-7284-4b55-9cd9-b994cf8b712a%2Fdd9nvgt-10b1bc61-c854-446a-bac5-c746e007fd99.gif%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAzOWZiNjBlLTcyODQtNGI1NS05Y2Q5LWI5OTRjZjhiNzEyYVwvZGQ5bnZndC0xMGIxYmM2MS1jODU0LTQ0NmEtYmFjNS1jNzQ2ZTAwN2ZkOTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P9fpSaA5hwItudw9BHfTn-uGtMf50fpELFbF_GuS5rE&f=1&nofb=1&ipt=e24e799150f3ea933a0b6baca84ba25b6dfa416fde1cb13c598372cdb0d9d54a&ipo=images)
+
 
 
 
