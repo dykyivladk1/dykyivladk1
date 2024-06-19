@@ -9,18 +9,30 @@
 
 ### Skills  
 
-- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Languages**
-  - Python:  <!-- replace with actual progress bar URL -->
-  - HTML/CSS:  <!-- replace with actual progress bar URL -->
-  - JS:  <!-- replace with actual progress bar URL -->
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> <strong>Languages</strong></li>
+    <li>Python:  <!-- replace with actual progress bar URL --></li>
+    <li>HTML/CSS:  <!-- replace with actual progress bar URL --></li>
+    <li>JS:  <!-- replace with actual progress bar URL --></li>
+  </ul>
+</div>
 
-- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Frameworks**
-  - PyTorch:  <!-- replace with actual progress bar URL -->
-  - TensorFlow (TF): <!-- replace with actual progress bar URL -->
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> <strong>Frameworks</strong></li>
+    <li>PyTorch:  <!-- replace with actual progress bar URL --></li>
+    <li>TensorFlow (TF): <!-- replace with actual progress bar URL --></li>
+  </ul>
+</div>
 
-- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Other Skills**
-  - Telegram Bots Development:  <!-- replace with actual progress bar URL -->
-  - Web-Scraping:  <!-- replace with actual progress bar URL -->
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> <strong>Other Skills</strong></li>
+    <li>Telegram Bots Development:  <!-- replace with actual progress bar URL --></li>
+    <li>Web-Scraping:  <!-- replace with actual progress bar URL --></li>
+  </ul>
+</div>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
