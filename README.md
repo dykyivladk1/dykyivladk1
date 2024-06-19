@@ -1,14 +1,13 @@
-### Hi there 👋, I'm Vladyslav Dykyi!!
-
+### Welcome!
 <div align="center">
-  Welcome to my GitHub! 
+  I am Vladyslav Dykyi, an AI Researcher and student at Johannes Kepler University. When I'm not studying or preparing for exams, I design and build neural networks.
 </div>
 
 <div align="center">
   <img src="https://github.com/dykyivladk1/About/blob/c30ea18add3f3ecd90ebec477a5917a08e4d3e6d/images/deyvln3-aa8a95e4-eab4-44fb-bee0-43bff260568c.gif" alt="Animated GIF" style="width:100%;"/>
 </div>
 
-### Skills 🧰
+### Skills  
 
 - <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Languages**
   - Python:  <!-- replace with actual progress bar URL -->
