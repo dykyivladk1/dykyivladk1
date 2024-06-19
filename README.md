@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/dykyivladk1/About/blob/de4137e4e488de967d43242b9c66af3735d03529/images/deyvln3-aa8a95e4-eab4-44fb-bee0-43bff260568c.gif" alt="Animated GIF" style="width:100%;"/>
+  <img src="https://github.com/dykyivladk1/About/blob/c30ea18add3f3ecd90ebec477a5917a08e4d3e6d/images/deyvln3-aa8a95e4-eab4-44fb-bee0-43bff260568c.gif" alt="Animated GIF" style="width:100%;"/>
 </div>
 
 ### Skills 🧰
