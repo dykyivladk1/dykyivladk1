@@ -1,24 +1,23 @@
 ### Hi there 👋, I'm Vladyslav Dykyi!!
 
-Welcome to my GitHub!
+Welcome to my GitHub! 
 
-# Dykyi Vladyslav
-### AI Developer
+<img src="https://github.com/dykyivladk1/About/blob/ed1d58f8e1734423820619b5118cb55b5d2ef78e/images/background_logo.png" alt="Background Logo" style="width:100%;"/>
 
 ### Skills 🧰
 
-**Languages**
-- ![Bullet Point](https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png) Python
-- ![Bullet Point](https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png) HTML/CSS
-- ![Bullet Point](https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png) JS
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Languages**
+  - Python: ![Python Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
+  - HTML/CSS: ![HTML/CSS Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
+  - JS: ![JS Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
 
-**Frameworks**
-- ![Bullet Point](https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png) PyTorch
-- ![Bullet Point](https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png) TensorFlow (TF)
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Frameworks**
+  - PyTorch: ![PyTorch Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
+  - TensorFlow (TF): ![TF Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
 
-**Other Skills**
-- ![Bullet Point](https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png) Telegram Bots Development
-- ![Bullet Point](https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png) Web-Scraping
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Other Skills**
+  - Telegram Bots Development: ![Telegram Bots Development Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
+  - Web-Scraping: ![Web-Scraping Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
