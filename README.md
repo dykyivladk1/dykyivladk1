@@ -6,7 +6,7 @@ Welcome to my GitHub!
 
 ### Toolbox 🧰
 
-![Skills Part](https://github.com/dykyivladk1/About/blob/ed1d58f8e1734423820619b5118cb55b5d2ef78e/images/skills_part.png)
+<img src="https://github.com/dykyivladk1/About/blob/ed1d58f8e1734423820619b5118cb55b5d2ef78e/images/skills_part.png" alt="Skills Part" style="width:100%; height:auto; max-height:300px;"/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
