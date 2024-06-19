@@ -2,18 +2,18 @@
 
 Welcome to my GitHub! 
 
-<img src="https://github.com/dykyivladk1/About/blob/ed1d58f8e1734423820619b5118cb55b5d2ef78e/images/background_logo.png" alt="Background Logo" style="width:100%;"/>
+<img src="https://github.com/dykyivladk1/About/blob/ed1d58f8e1734423820619b5118cb55b5d2ef78e/images/background_logo.png" alt="Background Logo" style="width:200px;"/>
 
 ### Skills 🧰
 
 - <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Languages**
-  - Python: ![Python Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
-  - HTML/CSS: ![HTML/CSS Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
-  - JS: ![JS Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
+  - Python: ![Python Progress] <!-- replace with actual progress bar URL -->
+  - HTML/CSS: ![HTML/CSS Progress] <!-- replace with actual progress bar URL -->
+  - JS: ![JS Progress] <!-- replace with actual progress bar URL -->
 
 - <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Frameworks**
-  - PyTorch: ![PyTorch Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
-  - TensorFlow (TF): ![TF Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
+  - PyTorch: ![PyTorch Progress] <!-- replace with actual progress bar URL -->
+  - TensorFlow (TF): ![TF Progress] <!-- replace with actual progress bar URL -->
 
 - <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Other Skills**
   - Telegram Bots Development: ![Telegram Bots Development Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
