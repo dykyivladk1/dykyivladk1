@@ -2,22 +2,25 @@
 
 Welcome to my GitHub! 
 
-<img src="https://github.com/dykyivladk1/About/blob/ed1d58f8e1734423820619b5118cb55b5d2ef78e/images/background_logo.png" alt="Background Logo" style="width:100%;"/>
+<div style="font-family: 'Monument'; font-size: 50px;">
+  <span style="text-align: left; display: block;">Dykyi Vladyslav</span>
+  <span style="text-align: right; display: block; margin-top: -30px;">AI Developer</span>
+</div>
 
 ### Skills 🧰
 
 **Languages**
- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> Python
- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> HTML/CSS
- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> JS
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> Python
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> HTML/CSS
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> JS
 
 **Frameworks**
- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> PyTorch
- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> TensorFlow (TF)
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> PyTorch
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> TensorFlow (TF)
 
 **Other Skills**
-<img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> Telegram Bots Development
- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> Web-Scraping
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> Telegram Bots Development
+- <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:15px; height:auto; display:inline;"/> Web-Scraping
 
 <details>
   <summary>:zap: GitHub Stats</summary>
