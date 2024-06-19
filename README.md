@@ -11,26 +11,26 @@
 
 <div align="center">
   <ul style="list-style: none; padding: 0;">
-    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> <strong>Languages</strong></li>
-    <li>Python:  <!-- replace with actual progress bar URL --></li>
-    <li>HTML/CSS:  <!-- replace with actual progress bar URL --></li>
-    <li>JS:  <!-- replace with actual progress bar URL --></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> <strong>Languages</strong></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> Python:  <!-- replace with actual progress bar URL --></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> HTML/CSS:  <!-- replace with actual progress bar URL --></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> JS:  <!-- replace with actual progress bar URL --></li>
   </ul>
 </div>
 
 <div align="center">
   <ul style="list-style: none; padding: 0;">
-    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> <strong>Frameworks</strong></li>
-    <li>PyTorch:  <!-- replace with actual progress bar URL --></li>
-    <li>TensorFlow (TF): <!-- replace with actual progress bar URL --></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> <strong>Frameworks</strong></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> PyTorch:  <!-- replace with actual progress bar URL --></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> TensorFlow (TF): <!-- replace with actual progress bar URL --></li>
   </ul>
 </div>
 
 <div align="center">
   <ul style="list-style: none; padding: 0;">
-    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> <strong>Other Skills</strong></li>
-    <li>Telegram Bots Development:  <!-- replace with actual progress bar URL --></li>
-    <li>Web-Scraping:  <!-- replace with actual progress bar URL --></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> <strong>Other Skills</strong></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> Telegram Bots Development:  <!-- replace with actual progress bar URL --></li>
+    <li><img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto; vertical-align:middle; margin-right: 8px;"/> Web-Scraping:  <!-- replace with actual progress bar URL --></li>
   </ul>
 </div>
 
