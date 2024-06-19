@@ -16,8 +16,8 @@ Welcome to my GitHub!
   - TensorFlow (TF): ![TF Progress] <!-- replace with actual progress bar URL -->
 
 - <img src="https://github.com/dykyivladk1/About/blob/c0a57f72a28daef6a7f02ee66105fae26b85f1bd/images/pointer.png" alt="Bullet Point" style="width:20px; height:auto;"/> **Other Skills**
-  - Telegram Bots Development: ![Telegram Bots Development Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
-  - Web-Scraping: ![Web-Scraping Progress](https://progress-bar-url) <!-- replace with actual progress bar URL -->
+  - Telegram Bots Development: ![Telegram Bots Development Progress] <!-- replace with actual progress bar URL -->
+  - Web-Scraping: ![Web-Scraping Progress] <!-- replace with actual progress bar URL -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
