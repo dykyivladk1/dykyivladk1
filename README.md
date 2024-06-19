@@ -1,8 +1,12 @@
 ### Hi there 👋, I'm Vladyslav Dykyi!!
 
-Welcome to my GitHub! 
+<div align="center">
+  Welcome to my GitHub! 
+</div>
 
-<img src="https://github.com/dykyivladk1/About/blob/16c475f71b46888e981bf75daf515f1f9931b6da/images/log_.gif" alt="Background Logo" style="width:100%;"/>
+<div align="center">
+  <img src="https://github.com/dykyivladk1/About/blob/de4137e4e488de967d43242b9c66af3735d03529/images/deyvln3-aa8a95e4-eab4-44fb-bee0-43bff260568c.gif" alt="Animated GIF" style="width:100%;"/>
+</div>
 
 ### Skills 🧰
 
