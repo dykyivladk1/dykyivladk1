@@ -2,10 +2,26 @@
 
 Welcome to my GitHub! 
 
-<div style="font-family: 'Monument'; font-size: 50px;">
-  <span style="text-align: left; display: block;">Dykyi Vladyslav</span>
-  <span style="text-align: right; display: block; margin-top: -30px;">AI Developer</span>
-</div>
+<style>
+@font-face {
+    font-family: 'Teacher Vintage';
+    src: url('https://github.com/dykyivladk1/About/raw/a026f8a06bacb44429413b9e62e21307279d7d71/images/Teacher%20Vintage.otf') format('opentype');
+}
+.header {
+    font-family: 'Teacher Vintage', sans-serif;
+    font-size: 50px;
+    text-align: left;
+}
+.subheader {
+    font-family: 'Teacher Vintage', sans-serif;
+    font-size: 30px;
+    text-align: right;
+    margin-top: -30px;
+}
+</style>
+
+<div class="header">Dykyi Vladyslav</div>
+<div class="subheader">AI Developer</div>
 
 ### Skills 🧰
 
