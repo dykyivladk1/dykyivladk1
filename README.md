@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 
 
-<img src="https://github.com/dykyivladk1/About/blob/ed1d58f8e1734423820619b5118cb55b5d2ef78e/images/background_logo.png" alt="Background Logo" style="width:100%;"/>
+<img src="https://github.com/dykyivladk1/About/blob/16c475f71b46888e981bf75daf515f1f9931b6da/images/log_.gif" alt="Background Logo" style="width:100%;"/>
 
 ### Skills 🧰
 
