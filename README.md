@@ -25,7 +25,7 @@
 ### Recent Projects 🔥
 
 - **Audio Event Detection Model**: [Website](https://vag.pythonanywhere.com/)
-- **Polip Library**: [PyPI](https://pypi.org/project/polip/) - Designed for enhancing and speeding up building neural networks
+- **Polip Library**: [PyPI](https://pypi.org/project/polip/) 
 
 <details>
   <summary>📊 GitHub Stats</summary>
