@@ -7,7 +7,7 @@
   <img src="https://github.com/dykyivladk1/About/blob/c30ea18add3f3ecd90ebec477a5917a08e4d3e6d/images/deyvln3-aa8a95e4-eab4-44fb-bee0-43bff260568c.gif" alt="Animated GIF" style="width:100%;"/>
 </div>
 
-### Skills <img src="https://github.com/dykyivladk1/About/blob/096588d3f5bc3cc124b88d3a5e04a02d584838f0/images/light.gif" alt="Light Image" style="width:30px; height:auto;"/>
+### Skills <img src="https://github.com/dykyivladk1/About/blob/096588d3f5bc3cc124b88d3a5e04a02d584838f0/images/light.gif" alt="Light Image" style="width:35px; height:auto; vertical-align:middle;"/>
 
 - <img src="https://github.com/dykyivladk1/About/blob/f9aa6776ee2776c8dba5233d8721cce39b392c36/images/pointer.gif" alt="Bullet Point" style="width:20px; height:auto;"/> **Languages**
   - Python
@@ -23,7 +23,7 @@
   - Web-Scraping
 
 <details>
-  <summary><img src="https://github.com/dykyivladk1/About/blob/096588d3f5bc3cc124b88d3a5e04a02d584838f0/images/light.gif" alt="Light Image" style="width:30px; height:auto;"/> GitHub Stats</summary>
+  <summary><img src="https://github.com/dykyivladk1/About/blob/096588d3f5bc3cc124b88d3a5e04a02d584838f0/images/light.gif" alt="Light Image" style="width:35px; height:auto; vertical-align:middle;"/> GitHub Stats</summary>
 
   ![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true&theme=radical)
 
