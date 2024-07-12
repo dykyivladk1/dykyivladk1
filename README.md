@@ -8,7 +8,7 @@
 <h3 align="center">AI Researcher | Data Analysis Enthusiast | Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vladyslav-dykyi-4321a9283/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
-<a href="https://portcode.at/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Portal%2C_P_placeholder_logo.png" alt="personal website" height="30" width="40" /></a>
+<a href="https://portcode.at/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F131-1312432_website-logo-png-transparent-background-image-black-logo.png&f=1&nofb=1&ipt=b3e2dd356d0107ab9146791aa46e3e9a424355fe4361a2b30f1b950e83426aa3&ipo=images" alt="personal website" height="30" width="40" /></a>
 <a href="mailto:vladdikiy17@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vladyslav___dk/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="40" /></a>
 <a href="https://ttstacotron.pythonanywhere.com/" target="blank"><img align="center" src="https://github.com/dykyivladk1/tacotron/raw/main/assets/Tacotron.png" alt="tts model website" height="30" width="40" /></a>
@@ -34,14 +34,13 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>Talking about Personal Stuffs...</b><br>
   ✔ Pronouns: <b>He/His</b> or <b>TeamMaker</b>😉 <br>
   ✔ I’m currently Developing <b>Paycron</b> Payment Gateway <b>@Plaxonic</b><br>
-  ✔ I’m currently learning <b>ReactJS</b> & <b>NodeJS</b><br>
+  ✔ I’m currently learning <b>Computer Vision</b>
   ✔ I’m looking to collaborate with any <b>Open-Source contribution</b><br>
   ✔ I’m currently taking part in a <b>Field Satellite Competition</b><br>
   ✔ I’m developing models and implementing them from scratch, such as the <b>Tacotron model</b> and a website where everyone can try the model and obtain the recorded audio<br>
   ✔ I’m currently developing <b>Machine Learning Algorithms</b><br>
   ✔ I’m currently learning <b>Computer Vision Models</b><br>
   ✔ I use to write my code in <b>VS Code</b><br>
-  ✔ I use to write code on <a href="https://leetcode.com/Akash_Chowrasia/">leetcode</a><br>
   ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
   ✔ Fun fact: <i>During intense coding sessions, I sometimes find myself talking to my code as if it can hear me!</i><br><br><br><br>
 </p>
