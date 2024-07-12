@@ -66,7 +66,7 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true&locale=en" alt="vladyslav-dykyi" width="410" />
 </p>
-Here are some [🐱cats](https://www.petfinder.com/cat-breeds/):
+Here are some 🐱cats:
 
 <div>
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30" height="30"/>
