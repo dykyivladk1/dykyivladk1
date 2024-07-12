@@ -1,11 +1,15 @@
 ### Welcome!
-<div align="center">
-  I am Vladyslav Dykyi, an AI Researcher and student at Johannes Kepler University. When I'm not studying or preparing for exams, I design and build neural networks.
-</div>
 
 <div align="center">
   <img src="https://github.com/dykyivladk1/About/blob/3b7de9ed46d1103086550970d9370147c0790185/images/ai_developer.gif" alt="Animated GIF" style="width:100%;"/>
 </div>
+
+
+
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vladyslav Dykyi</h1>
+
+
 
 ### Skills 🚀
 
