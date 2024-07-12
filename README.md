@@ -39,7 +39,6 @@
   ✔ I’m currently taking part in a <b>Field Satellite Competition</b><br>
   ✔ I’m developing models and implementing them from scratch, such as the <b>Tacotron model</b> and a website where everyone can try the model and obtain the recorded audio<br>
   ✔ I’m currently developing <b>Machine Learning Algorithms</b><br>
-  ✔ I’m currently learning <b>Computer Vision Models</b><br>
   ✔ I use to write my code in <b>VS Code</b><br>
   ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
   ✔ Fun fact: <i>During intense coding sessions, I sometimes find myself talking to my code as if it can hear me!</i><br><br><br><br>
