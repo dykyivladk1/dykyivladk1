@@ -74,13 +74,9 @@ Here are some [🐱cats](https://www.petfinder.com/cat-breeds/):
     <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="36" height="30"/>
     <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="30" height="30"/>
     <img src="https://media.giphy.com/media/Q56ZI04r6CakM/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/l1J3pT7PfLgSRMnFC/giphy.gif" width="30" height="30"/>
     <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" width="30" height="30"/>
     <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="36" height="30"/>
-    <img src="https://media.giphy.com/media/MqO0Q2JvNUSwM/giphy.gif" width="30" height="30"/>
     <img src="https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/12d7eL5mhb0QEw/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/Jk4ZT7MaSk34A/giphy.gif" width="30" height="30"/>
     <img src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="30" height="30"/>
     <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30" height="30"/>
 </div>
