@@ -11,25 +11,25 @@
 
 <div align="center">
   <div style="text-align: left; width: 80%; margin: 0 auto;">
-    <p>Python</p>
-    <div style="background-color: #ddd; border-radius: 5px;">
-      <div style="width: 99%; background-color: #4caf50; height: 24px; border-radius: 5px;"></div>
+    <p>Python <span style="float: right;">99%</span></p>
+    <div style="background-color: #ddd; border-radius: 5px; width: 100%;">
+      <div style="width: 99%; background-color: #4caf50; height: 24px; border-radius: 5px; text-align: center; color: white;">##########</div>
     </div>
-    <p>HTML/CSS</p>
-    <div style="background-color: #ddd; border-radius: 5px;">
-      <div style="width: 75%; background-color: #2196F3; height: 24px; border-radius: 5px;"></div>
+    <p>HTML/CSS <span style="float: right;">75%</span></p>
+    <div style="background-color: #ddd; border-radius: 5px; width: 100%;">
+      <div style="width: 75%; background-color: #2196F3; height: 24px; border-radius: 5px; text-align: center; color: white;">#######</div>
     </div>
-    <p>JavaScript</p>
-    <div style="background-color: #ddd; border-radius: 5px;">
-      <div style="width: 70%; background-color: #ff9800; height: 24px; border-radius: 5px;"></div>
+    <p>JavaScript <span style="float: right;">70%</span></p>
+    <div style="background-color: #ddd; border-radius: 5px; width: 100%;">
+      <div style="width: 70%; background-color: #ff9800; height: 24px; border-radius: 5px; text-align: center; color: white;">#######</div>
     </div>
-    <p>Swift</p>
-    <div style="background-color: #ddd; border-radius: 5px;">
-      <div style="width: 70%; background-color: #f44336; height: 24px; border-radius: 5px;"></div>
+    <p>Swift <span style="float: right;">70%</span></p>
+    <div style="background-color: #ddd; border-radius: 5px; width: 100%;">
+      <div style="width: 70%; background-color: #f44336; height: 24px; border-radius: 5px; text-align: center; color: white;">#######</div>
     </div>
-    <p>C++</p>
-    <div style="background-color: #ddd; border-radius: 5px;">
-      <div style="width: 70%; background-color: #9c27b0; height: 24px; border-radius: 5px;"></div>
+    <p>C++ <span style="float: right;">70%</span></p>
+    <div style="background-color: #ddd; border-radius: 5px; width: 100%;">
+      <div style="width: 70%; background-color: #9c27b0; height: 24px; border-radius: 5px; text-align: center; color: white;">#######</div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@
 ### GitHub Stats 📊
 
 <div align="center">
-  ![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true&theme=radical" alt="Vladyslav's GitHub stats"/>
 </div>
 
 ### Let's Connect! 🤝
