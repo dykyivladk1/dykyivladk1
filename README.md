@@ -68,30 +68,32 @@
 </p>
 
 Here are some [🐍 pythons](https://en.wikipedia.org/wiki/Python_(genus)):
+Here are some [🧠 neurons](https://en.wikipedia.org/wiki/Neuron):
 
 <div>
-    <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3ohhwJ24kAG3dSniyQ/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/l41lOQ4DfxlJzOW6A/giphy.gif" width="36" height="30"/>
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3og0IUGRQcRaBO1WcM/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/xT9IglA68jyOZnvF7q/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3oriO4RkWrdZezTcwo/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3o6ZtpCefvCLOczmWc/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/l0Ex1bV0P4I9pI8N2/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3o7TKRwpns23QMNNiE/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3o6Zt6V8cc1vAqaxfy/giphy.gif" width="36" height="30"/>
-    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/l41lJQ4Yg6lfw64Ny/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/xUOxfm91TU9qbfR2cE/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3oKIPdEqme1fUSKJ0E/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/xUPJQOX8N51LE6yr4A/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3og0IFLOb0YBktBz7O/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/l0ExhAlq6Wexsm2De/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/xUOxf7yde3Q5IodEBm/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/3ohhwkJcSBm5ZwtAJO/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/l0ErUOfDRKek7gJ2Q/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/4k7D8mqfcyE88/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/13FsWkZO2bGnHO/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3oEjHYtNNNxQ2VPmUE/giphy.gif" width="36" height="30"/>
+    <img src="https://media.giphy.com/media/26gsso6f78AGrz1L6/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/l0Ex7aZHz0URz3mr6/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3o7aD8LljdLe1MFLs4/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/l0Exk8EUzSLsrEr1u/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/5bhLZaMkzYFeg/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/l41YpeFWhfYWBWqBa/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/l41lK4Bjdy3ptP4je/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/xUPGcgCClxSaNBM43K/giphy.gif" width="36" height="30"/>
+    <img src="https://media.giphy.com/media/3o7aD8AElP4MZG3IJa/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/26AHLBZUC1n53ozi8/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3o6fJbnUkw8eJwqH8g/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/1fgRMyBfJGGXQeFQQD/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/26FPp1wRC6RWUgbMs/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/xT9IggNdg4n93RD4sU/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/xUPGclLlqr5L2Pb3ZS/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3oEjHJzp5tA3IZQsZK/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3oEjI0JHgn8ni4bcw8/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3oEjHWswxfnTvk23Tq/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="30" height="30"/>
 </div>
+
