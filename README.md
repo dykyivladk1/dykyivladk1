@@ -61,11 +61,12 @@
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladyslav-dykyi&show_icons=true&locale=en&layout=compact&langs_count=6&hide=smalltalk" alt="vladyslav-dykyi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dykyivladk1&show_icons=true&locale=en&layout=compact&langs_count=6&hide=smalltalk" alt="vladyslav-dykyi" />
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladyslav-dykyi&show_icons=true&locale=en" alt="vladyslav-dykyi" width="410" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dykyivladk1&show_icons=true&locale=en" alt="vladyslav-dykyi" width="410" />
 </p>
+
 
 Here are some [🐱 cats](https://www.petfinder.com/cat-breeds/):
 
