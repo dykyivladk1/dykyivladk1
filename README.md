@@ -10,7 +10,28 @@
 ### Skills 🚀
 
 <div align="center">
-  <img src="https://github.com/dykyivladk1/About/blob/8a9212428a834a615e3f01a6f31e88df11ffc16f/images/lang_bars.mp4" alt="Skills Image" style="width:100%;"/>
+  <div style="text-align: left; width: 80%; margin: 0 auto;">
+    <p>Python</p>
+    <div style="background-color: #ddd; border-radius: 5px;">
+      <div style="width: 99%; background-color: #4caf50; height: 24px; border-radius: 5px;"></div>
+    </div>
+    <p>HTML/CSS</p>
+    <div style="background-color: #ddd; border-radius: 5px;">
+      <div style="width: 75%; background-color: #2196F3; height: 24px; border-radius: 5px;"></div>
+    </div>
+    <p>JavaScript</p>
+    <div style="background-color: #ddd; border-radius: 5px;">
+      <div style="width: 70%; background-color: #ff9800; height: 24px; border-radius: 5px;"></div>
+    </div>
+    <p>Swift</p>
+    <div style="background-color: #ddd; border-radius: 5px;">
+      <div style="width: 70%; background-color: #f44336; height: 24px; border-radius: 5px;"></div>
+    </div>
+    <p>C++</p>
+    <div style="background-color: #ddd; border-radius: 5px;">
+      <div style="width: 70%; background-color: #9c27b0; height: 24px; border-radius: 5px;"></div>
+    </div>
+  </div>
 </div>
 
 ### Recent Projects 🔥
