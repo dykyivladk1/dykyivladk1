@@ -8,10 +8,10 @@
 <h3 align="center">AI Researcher | Data Analysis Enthusiast | Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vladyslav-dykyi-4321a9283/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
-<a href="https://portcode.at/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/59/59967.png" alt="personal website" height="30" width="40" /></a>
+<a href="https://portcode.at/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Portal%2C_P_placeholder_logo.png" alt="personal website" height="30" width="40" /></a>
 <a href="mailto:vladdikiy17@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vladyslav___dk/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="40" /></a>
-<a href="https://ttstacotron.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/686/686458.png" alt="tts model website" height="30" width="40" /></a>
+<a href="https://ttstacotron.pythonanywhere.com/" target="blank"><img align="center" src="https://github.com/dykyivladk1/tacotron/raw/main/assets/Tacotron.png" alt="tts model website" height="30" width="40" /></a>
 <a href="https://pypi.org/project/polip/" target="blank"><img align="center" src="https://pypi-camo.freetls.fastly.net/9f948c872ce31ab3e546e35ed5e59e0cf373c67b/68747470733a2f2f6769746875622e636f6d2f64796b7969766c61646b312f706f6c69702f626c6f622f6d61696e2f696d616765732f706f6c69702e706e673f7261773d74727565" alt="polip" height="30" width="40" /></a>
 </p>
 
