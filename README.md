@@ -7,7 +7,7 @@ I'm **Vladyslav Dykyi**, an AI/ML Developer with expertise in:
 - Natural Language Processing (NLP)
 - Computer Vision
 
-## C O N T A C T A B O U T M E
+## C O N T A C T  A B O U T  M E
 - **Email**: vladdikiy17@gmail.com  
 - **Website**: [https://portcode.at/](https://portcode.at/)  
 - **Location**: Linz, Upper Austria  
@@ -31,16 +31,13 @@ Developed **GPT-X**, a custom version of the Generative Pretrained Transformer (
 ### **Upcoming AI Chat Bot**  
 Currently in development is a new AI Chat Bot designed to provide cutting-edge conversational experiences, incorporating advanced deep learning techniques.
 
-## E D U C A T I O N
-
-### **Johannes Kepler University Linz**  
-- Bachelor in AI (2023-Present)
-
-### **IT School Odessa**  
-- Python Developer (2021-2022)
-
 ## S K I L L S
-- Web-Scraping
-- Data analysis
-- Data gathering
-- Chatbot development
+- AI/ML Model Development
+- Deep Learning (CNNs, RNNs)
+- NLP and Audio Processing
+- Computer Vision
+- Model Optimization and Deployment
+- Data Analysis and Preprocessing
+- LLMs and Chatbot Development
+- Web-Scraping and Automation
+- Python, TensorFlow, PyTorch
