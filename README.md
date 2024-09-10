@@ -28,8 +28,9 @@ Founder of the POLIP library, a toolkit for Machine Learning developers, designe
 Developed **GPT-X**, a custom version of the Generative Pretrained Transformer (GPT) with 56 transformer blocks.  
 - GPT-X is optimized for various NLP tasks, featuring causal self-attention mechanisms and byte-pair encoding for efficient tokenization.
 
-### **Upcoming AI Chat Bot**  
-Currently in development is a new AI Chat Bot designed to provide cutting-edge conversational experiences, incorporating advanced deep learning techniques.
+### **Upcoming AI NYX Model**  
+Currently in development is the NYX model, designed to provide cutting-edge conversational experiences. NYX incorporates advanced deep learning techniques and outperforms both PaLM and GPT-3 in terms of performance and efficiency.
+
 
 ## S K I L L S
 - AI/ML Model Development
