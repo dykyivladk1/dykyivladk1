@@ -22,7 +22,7 @@ Founder of **Adify**, a Spotify playlist generator that creates playlists based 
 - **Website**: [http://adify.pro/](http://adify.pro/)  
 - ADIFY AI uses the FAISS index and trained transformers, making it highly efficient. It has been trained on 10,000 playlists, allowing it to intelligently select songs and playlists from Spotify’s vast library based on user mood or activity. By entering a description of the desired playlist (e.g., "chill rock music for studying"), users receive personalized recommendations.
 
-### **WIZA TELEGRAM BOT**  
+### **WIZA TELEGRAM AI Assistant**  
 Founder of the WIZA Telegram bot, a comprehensive travel assistant supporting 39 countries and 462 cities.  
 - Features include top-rated restaurants and hotels, currency conversion, local taxi services, nearby hospitals, shopping centers, apartment rentals, emergency contacts, and an events section.  
 - The bot utilizes a proprietary WIZA search engine and supports multiple languages for a seamless travel experience.
