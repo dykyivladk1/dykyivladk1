@@ -16,6 +16,12 @@ I'm **Vladyslav Dykyi**, an AI/ML Developer with expertise in:
 
 ## P R O J E C T S
 
+### **ADIFY AI**  
+Founder of **Adify**, a Spotify playlist generator that creates playlists based on user prompts.  
+<img align="right" src="https://github.com/dykyivladk1/adify-ai/blob/main/assets/logo.png" width="150">
+- **Website**: [http://adify.pro/](http://adify.pro/)  
+- ADIFY AI uses the FAISS index and trained transformers, making it highly efficient. It has been trained on 10,000 playlists, allowing it to intelligently select songs and playlists from Spotify’s vast library based on user mood or activity. By entering a description of the desired playlist (e.g., "chill rock music for studying"), users receive personalized recommendations.
+
 ### **WIZA TELEGRAM BOT**  
 Founder of the WIZA Telegram bot, a comprehensive travel assistant supporting 39 countries and 462 cities.  
 - Features include top-rated restaurants and hotels, currency conversion, local taxi services, nearby hospitals, shopping centers, apartment rentals, emergency contacts, and an events section.  
@@ -25,13 +31,8 @@ Founder of the WIZA Telegram bot, a comprehensive travel assistant supporting 39
 Founder of the POLIP library, a toolkit for Machine Learning developers, designed to enhance model performance.  
 - POLIP provides custom implementations to improve efficiency and accuracy in machine learning models.
 
-### **GPT-X**  
-Developed **GPT-X**, a custom version of the Generative Pretrained Transformer (GPT) with 56 transformer blocks.  
-- GPT-X is optimized for various NLP tasks, featuring causal self-attention mechanisms and byte-pair encoding for efficient tokenization.
-
 ### **Upcoming AI NYX Model**  
 Currently in development is the NYX model, designed to provide cutting-edge conversational experiences. NYX incorporates advanced deep learning techniques and outperforms both PaLM and GPT-3 in terms of performance and efficiency.
-
 
 ## S K I L L S
 - AI/ML Model Development
