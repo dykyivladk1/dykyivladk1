@@ -31,7 +31,7 @@ Founder of the WIZA Telegram bot, a comprehensive travel assistant supporting 39
 Founder of the POLIP library, a toolkit for Machine Learning developers, designed to enhance model performance.  
 - POLIP provides custom implementations to improve efficiency and accuracy in machine learning models.
 
-### ** AI NYX Model**  
+### **AI NYX Model**  
 NYX is a Transformer-based neural architecture designed for autoregressive natural language generation tasks. The model leverages positional rotary embeddings, multi-head self-attention, and low-rank adaptation techniques for efficient, scalable training. The architecture is implemented using PyTorch and provides modular flexibility to suit a variety of NLP applications, including text generation, completion, and language modeling.
 
 ## S K I L L S
