@@ -34,7 +34,6 @@ Founder of **Fluxa AI**, an advanced text summarization tool using state-of-the-
 
 ### **WIZA TELEGRAM AI Assistant**  
 Founder of the WIZA Telegram bot, a comprehensive travel assistant supporting 39 countries and 462 cities.  
-<img align="right" src="https://github.com/dykyivladk1/WIZA/blob/main/logo_clear.png?raw=true" width="150">
 - Features include top-rated restaurants and hotels, currency conversion, local taxi services, nearby hospitals, shopping centers, apartment rentals, emergency contacts, and an events section.  
 - The bot utilizes a proprietary WIZA search engine and supports multiple languages for a seamless travel experience.
 
