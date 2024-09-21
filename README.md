@@ -27,9 +27,11 @@ Founder of the WIZA Telegram bot, a comprehensive travel assistant supporting 39
 - Features include top-rated restaurants and hotels, currency conversion, local taxi services, nearby hospitals, shopping centers, apartment rentals, emergency contacts, and an events section.  
 - The bot utilizes a proprietary WIZA search engine and supports multiple languages for a seamless travel experience.
 
-### **POLIP**  
-Founder of the POLIP library, a toolkit for Machine Learning developers, designed to enhance model performance.  
-- POLIP provides custom implementations to improve efficiency and accuracy in machine learning models.
+### **FLUXA AI**  
+Founder of **Fluxa AI**, an advanced text summarization tool using state-of-the-art transformer models.  
+<img align="right" src="https://github.com/dykyivladk1/Fluxa-AI/raw/main/assets/main.png" width="150">
+- **Website**: [https://www.fluxa.pro/](https://www.fluxa.pro/)  
+- Fluxa AI specializes in summarizing text and PDF files, leveraging Optical Character Recognition (OCR) and transformer-based summarization models like BART. Fluxa is built for both speed and precision, making it ideal for processing large documents with complex content.
 
 ### **AI NYX Model**  
 NYX is a Transformer-based neural architecture designed for autoregressive natural language generation tasks. The model leverages positional rotary embeddings, multi-head self-attention, and low-rank adaptation techniques for efficient, scalable training. The architecture is implemented using PyTorch and provides modular flexibility to suit a variety of NLP applications, including text generation, completion, and language modeling.
