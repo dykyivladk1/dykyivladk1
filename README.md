@@ -1,6 +1,6 @@
 # Hey There 👋  
 I'm **Vladyslav Dykyi**, an AI/ML Developer with expertise in:
-<img align="right" src="logo.gif" width="150">
+<img align="right" src="logo_g.gif" width="150">
 
 - Development of AI models
 - Deep Learning
