@@ -26,7 +26,7 @@ Founder of **Adify**, a Spotify playlist generator that creates playlists based 
 
 ### **FLUXA AI**  
 Founder of **Fluxa AI**, an advanced text summarization tool using state-of-the-art transformer models.  
-<img align="right" src="https://github.com/dykyivladk1/Fluxa-AI/raw/main/assets/main.png" width="150">
+<img align="right" src="[https://github.com/dykyivladk1/Fluxa-AI/raw/main/assets/main.png](https://github.com/dykyivladk1/Fluxa-AI/blob/main/assets/fluxa.png?raw=true)" width="150">
 - **Website**: [https://www.fluxa.pro/](https://www.fluxa.pro/)  
 - Fluxa AI specializes in summarizing text and PDF files, leveraging Optical Character Recognition (OCR) and transformer-based summarization models like BART. Fluxa is built for both speed and precision, making it ideal for processing large documents with complex content.
 
