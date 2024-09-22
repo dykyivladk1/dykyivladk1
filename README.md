@@ -34,6 +34,7 @@ Founder of **Fluxa AI**, an advanced text summarization tool using state-of-the-
 - Fluxa AI specializes in summarizing text and PDF files, leveraging Optical Character Recognition (OCR) and transformer-based summarization models like BART. Fluxa is built for both speed and precision, making it ideal for processing large documents with complex content.
 
 ### **AI NYX Model**  
+<img align="right" src="https://github.com/dykyivladk1/NYX/raw/main/assets/logo.png" width="150">
 NYX is a Transformer-based neural architecture designed for autoregressive natural language generation tasks. The model leverages positional rotary embeddings, multi-head self-attention, and low-rank adaptation techniques for efficient, scalable training. The architecture is implemented using PyTorch and provides modular flexibility to suit a variety of NLP applications, including text generation, completion, and language modeling.
 
 ## S K I L L S
