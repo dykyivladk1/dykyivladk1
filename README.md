@@ -8,7 +8,7 @@ I'm **Vladyslav Dykyi**, an AI/ML Developer with expertise in:
 - Natural Language Processing (NLP)
 - Computer Vision
 
-## C O N T A C T  A B O U T  M E
+## C O N T A C T
 - **Email**: vladdikiy17@gmail.com  
 - **Website**: [https://portcode.at/](https://portcode.at/)  
 - **Location**: Linz, Upper Austria  
