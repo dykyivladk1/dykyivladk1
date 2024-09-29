@@ -23,7 +23,7 @@ Founder of **Adify**, a Spotify playlist generator that creates playlists based 
 - ADIFY AI uses the FAISS index and trained transformers, making it highly efficient. It has been trained on 10,000 playlists, allowing it to intelligently select songs and playlists from Spotify’s vast library based on user mood or activity. By entering a description of the desired playlist (e.g., "chill rock music for studying"), users receive personalized recommendations.
 
 ### **FLUXA AI**  
-Founder of **Fluxa AI**, an advanced text summarization tool using state-of-the-art transformer models.  
+Founder of **Fluxa AI**, an advanced recipes generation website using state-of-the-art transformer models.  
 <img align="right" src="https://github.com/dykyivladk1/Fluxa-AI/raw/main/assets/f_logo.png" width="150">
 - **Website**: [https://www.fluxa.pro/](https://www.fluxa.pro/)  
 - Fluxa is an innovative AI-powered platform designed to help users generate recipes based on the contents of their fridge. By simply uploading a photo of their fridge, Fluxa uses advanced image recognition models to detect the ingredients and suggest relevant recipes. It employs a custom-trained YOLO (You Only Look Once) model to analyze the image and identify ingredients, making it easy to create delicious meals based on what you already have.
