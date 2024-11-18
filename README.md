@@ -18,7 +18,8 @@ I'm **Vladyslav Dykyi**, an AI/ML Developer with expertise in:
 
 
 ### **LORA AI HOME ASSISTANT**  
-I am the creator of LORA AI HOME ASSISTANT, which uses AI for communication with user. It is a startup project, recently launched besides that is my best project. LORA can answer specific questions with effect of memory, recognize faces, detect gestures, perform web-search, retrieve weather data, set timers, reminders, alarms, and so much more. If you want to order (pre-release) or support me, here is the links:
+
+I am the creator of the LORA AI HOME ASSISTANT, which uses AI to communicate with users. It is a startup project that was recently launched and is my best project so far. LORA can answer specific questions with memory effects, recognize faces, detect gestures, perform web searches, retrieve weather data, set timers, reminders, alarms, and much more. If you want to place a pre-release order or support me, here are the links:
 - **Website**: [http://loralabs.at/](https://loralabs.at/)  
 
 
