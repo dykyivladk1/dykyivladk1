@@ -16,6 +16,14 @@ I'm **Vladyslav Dykyi**, an AI/ML Developer with expertise in:
 
 ## P R O J E C T S
 
+
+### **LORA AI HOME ASSISTANT**  
+I am the creator of LORA AI HOME ASSISTANT, which uses AI for communication with user. It is a startup project, recently launched besides that is my best project. LORA can answer specific questions with effect of memory, recognize faces, detect gestures, perform web-search, retrieve weather data, set timers, reminders, alarms, and so much more. If you want to order (pre-release) or support me, here is the links:
+<img align="right" src="https://github.com/dykyivladk1/adify-ai/blob/main/assets/logo.png" width="150">
+- **Website**: [http://loralabs.at/](https://loralabs.at/)  
+
+
+
 ### **ADIFY AI**  
 Founder of **Adify**, a Spotify playlist generator that creates playlists based on user prompts.  
 <img align="right" src="https://github.com/dykyivladk1/adify-ai/blob/main/assets/logo.png" width="150">
@@ -34,9 +42,6 @@ Founder of the WIZA Telegram bot, a comprehensive travel assistant supporting 39
 - Features include top-rated restaurants and hotels, currency conversion, local taxi services, nearby hospitals, shopping centers, apartment rentals, emergency contacts, and an events section.  
 - The bot utilizes a proprietary WIZA search engine and supports multiple languages for a seamless travel experience.
 
-### **AI NYX Model**  
-<img align="right" src="https://github.com/dykyivladk1/NYX/raw/main/assets/logo.png" width="150">
-NYX is a Transformer-based neural architecture designed for autoregressive natural language generation tasks. The model leverages positional rotary embeddings, multi-head self-attention, and low-rank adaptation techniques for efficient, scalable training. The architecture is implemented using PyTorch and provides modular flexibility to suit a variety of NLP applications, including text generation, completion, and language modeling.
 
 ## S K I L L S
 - AI/ML Model Development
