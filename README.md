@@ -17,12 +17,6 @@ I'm **Vladyslav Dykyi**, an AI/ML Developer with expertise in:
 ## P R O J E C T S
 
 
-### **LORA AI HOME ASSISTANT**  
-
-I am the creator of the LORA AI HOME ASSISTANT, which uses AI to communicate with users. It is a startup project that was recently launched and is my best project so far. LORA can answer specific questions with memory effects, recognize faces, detect gestures, perform web searches, retrieve weather data, set timers, reminders, alarms, and much more. If you want to place a pre-release order or support me, here are the links:
-- **Website**: [http://loralabs.at/](https://loralabs.at/)  
-
-
 
 ### **ADIFY AI**  
 Founder of **Adify**, a Spotify playlist generator that creates playlists based on user prompts.  
